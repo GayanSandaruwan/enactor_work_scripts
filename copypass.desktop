@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=CopyPass
+Exec=/home/gayan/enactor_home/common/scripts/copypass.sh
+Keywords=CopyPass;SVNCopy

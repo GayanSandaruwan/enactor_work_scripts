@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=True
+Name=Name To AUT Type
+Exec=/home/gayan/enactor_home/common/name_to_aut_type.sh
+Keywords=ToAUT;StringToAUT
